@@ -1,2 +1,2 @@
 - Hi, I’m Edgar Hipp.
-Interests: Hardware, Robotics, Mathematics
+- Interests: Hardware, Robotics, Mathematics
