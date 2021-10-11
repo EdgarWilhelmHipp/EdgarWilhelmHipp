@@ -1,2 +1,2 @@
 - Hi, I’m Edgar Hipp.
-- I’m currently studying computer science at the Karlsruhe Institut of Technology.
+- Hardware, robotics fan
