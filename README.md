@@ -1,2 +1,2 @@
 - Hi, I’m Edgar Hipp.
-- Hardware, robotics fan
+Interests: Hardware, Robotics, Mathematics
